@@ -1,0 +1,11 @@
+[
+  {"from": "Tula", "to": "Moscow", "vehicle": "bus", "flight_number": "36", "place_number": "", "baggage_number": ""},
+  {"from": "Krasnodar", "to": "Rostov-na-Donu", "vehicle": "train", "flight_number": "45A", "place_number": "26", "baggage_number": ""},
+  {"from": "Tver", "to": "Saint Petersburg", "vehicle": "plan", "flight_number": "365", "place_number": "8A", "baggage_number": "155"},
+  {"from": "Voronezh", "to": "Kursk", "vehicle": "bus", "flight_number": "41", "place_number": "", "baggage_number": ""},
+  {"from": "Kursk", "to": "Oryol", "vehicle": "bus", "flight_number": "102", "place_number": "", "baggage_number": ""},
+  {"from": "Simferopol", "to": "Krasnodar", "vehicle": "plan", "flight_number": "98H", "place_number": "54A", "baggage_number": "254"},
+  {"from": "Moscow", "to": "Tver", "vehicle": "train", "flight_number": "1125", "place_number": "34", "baggage_number": ""},
+  {"from": "Rostov-na-Donu", "to": "Voronezh", "vehicle": "plan", "flight_number": "10", "place_number": "30B", "baggage_number": "45", "field": ""},
+  {"from": "Oryol", "to": "Tula", "vehicle": "train", "flight_number": "123", "place_number": "17", "baggage_number": "", "field": "50", "another_field": "heheh"}
+]
